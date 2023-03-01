@@ -1,0 +1,5 @@
+transformers
+torch
+git+https://github.com/PierreColombo/nlg_eval_via_simi_measures.git
+numpy
+scikit-learn
