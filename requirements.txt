@@ -6,5 +6,5 @@ nltk
 py-rouge
 git+https://github.com/PierreColombo/nlg_eval_via_simi_measures.git
 #git+https://github.com/neural-dialogue-metrics/BLEU.git
-git+https://github.com/neural-dialogue-metrics/rouge.git
+#git+https://github.com/neural-dialogue-metrics/rouge.git
 git+https://github.com/pltrdy/rouge
